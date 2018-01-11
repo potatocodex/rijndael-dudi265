@@ -21,6 +21,11 @@ Where:
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;data_R=" title="\Large data_R=" /> Result of Encrypted or Decrypted Data
 
+## Code Example
+
+```
+lorem ipsum
+```
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
