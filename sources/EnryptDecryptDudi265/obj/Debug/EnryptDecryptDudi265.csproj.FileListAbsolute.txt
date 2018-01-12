@@ -1,0 +1,11 @@
+C:\Users\MisaGani\Documents\Visual Studio 2017\Projects\EnryptDecryptDudi265\EnryptDecryptDudi265\obj\Debug\EnryptDecryptDudi265.MainForm.resources
+C:\Users\MisaGani\Documents\Visual Studio 2017\Projects\EnryptDecryptDudi265\EnryptDecryptDudi265\obj\Debug\EnryptDecryptDudi265.Properties.Resources.resources
+C:\Users\MisaGani\Documents\Visual Studio 2017\Projects\EnryptDecryptDudi265\EnryptDecryptDudi265\obj\Debug\EnryptDecryptDudi265.csproj.GenerateResource.Cache
+C:\Users\MisaGani\Documents\Visual Studio 2017\Projects\EnryptDecryptDudi265\EnryptDecryptDudi265\obj\Debug\EnryptDecryptDudi265.csproj.CoreCompileInputs.cache
+C:\Users\MisaGani\Documents\Visual Studio 2017\Projects\EnryptDecryptDudi265\EnryptDecryptDudi265\bin\Debug\EnryptDecryptDudi265.exe.config
+C:\Users\MisaGani\Documents\Visual Studio 2017\Projects\EnryptDecryptDudi265\EnryptDecryptDudi265\bin\Debug\EnryptDecryptDudi265.exe
+C:\Users\MisaGani\Documents\Visual Studio 2017\Projects\EnryptDecryptDudi265\EnryptDecryptDudi265\bin\Debug\EnryptDecryptDudi265.pdb
+C:\Users\MisaGani\Documents\Visual Studio 2017\Projects\EnryptDecryptDudi265\EnryptDecryptDudi265\obj\Debug\EnryptDecryptDudi265.exe
+C:\Users\MisaGani\Documents\Visual Studio 2017\Projects\EnryptDecryptDudi265\EnryptDecryptDudi265\obj\Debug\EnryptDecryptDudi265.pdb
+C:\Users\MisaGani\Documents\Visual Studio 2017\Projects\EnryptDecryptDudi265\EnryptDecryptDudi265\obj\Debug\EnryptDecryptDudi265.csprojResolveAssemblyReference.cache
+C:\Users\MisaGani\Documents\Visual Studio 2017\Projects\EnryptDecryptDudi265\EnryptDecryptDudi265\bin\Debug\Dudi265Lib.dll
