@@ -1,13 +1,13 @@
 # rijndael-dudi265
-Secure System Library for Dot Net
+Secure System Library for Dot Net.
 
 ## Intro
-Created for easy to use cryptography on C# Visual Studio Windows Environment
+Created for easy to use cryptography on C# Visual Studio Windows Environment.
 
-Using Rijndael Algorithm for robust performance
+Using Rijndael Algorithm for robust performance.
 
 ## Equation
-This is the model for this library
+This is the model for this library.
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;Dudi265.f_(_d_a_t_a_)=data_R" title="\Large Dudi265.R_(_d_a_t_a_)=data_R" />
 
