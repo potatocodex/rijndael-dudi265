@@ -24,7 +24,7 @@ Where:
 ## IDE
 
 ```
-VS 2017.
+Microsoft VS 2017.
 ```
 
 ## License
