@@ -1,5 +1,5 @@
 # rijndael-dudi265
-Secure System Library for the Dot Net Framework.
+Secure System Library for Ms. Dot Net Framework.
 
 ## Intro
 Created for easy to use cryptography on the Microsoft C# Visual Studio Environment.
