@@ -4,7 +4,7 @@ Secure System Library for  dot Net Framework environment.
 ## Intro
 Created for easy to use cryptography on the C# Environment.
 
-Using a Rijndael Algorithm for more robust performance.
+Using Rijndael Algorithm for more robust performance.
 
 ## Equation
 This is the model for the library.
