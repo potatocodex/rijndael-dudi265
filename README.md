@@ -1,4 +1,4 @@
-# rijndael-dudi265 LIbrary
+# rijndael-dudi265 Library
 Secure System Library for the net Framework environment.
 
 ## Intro
@@ -24,8 +24,8 @@ Where:
 ## IDE
 
 ```
-Microsoft Visual Studio 2017 Community.
-```
+Microsoft Visual Studio 2017 Community
+``
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
