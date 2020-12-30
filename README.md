@@ -1,13 +1,13 @@
 # rijndael-dudi-265 library
-Secure System Library for the net Framework environment.
+Secure System Library for the net Framework environment
 
 ## Intro
-Created for easy to use cryptography on the C# Environment.
+Created for easy to use cryptography on the C# Environment
 
-Using Rijndael Algorithm for more robust performance.
+Using Rijndael Algorithm for more robust performance
 
 ## Equation
-This is the model for the library.
+This is the model for the library
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;Dudi265.f_(_d_a_t_a_)=data_R" title="\Large Dudi265.R_(_d_a_t_a_)=data_R" />
 
