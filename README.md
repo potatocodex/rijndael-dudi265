@@ -1,4 +1,4 @@
-# rijndael-dudi-265 lbs
+# rijndael-dudi-265 l
 Secure System Library for the dot net Framework environment
 
 ## Intro
