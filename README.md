@@ -1,4 +1,4 @@
-# rijndael-dudi-265 librari
+# rijndael-dudi-265 libraries
 Secure System Library for the dot net Framework environment
 
 ## Intro
