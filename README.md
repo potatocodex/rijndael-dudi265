@@ -1,4 +1,4 @@
-# rijndael-dudi-265 libsx
+# rijndael-dudi-265 libsxy
 Secure System Library for the dot net Framework environment
 
 ## Intro
