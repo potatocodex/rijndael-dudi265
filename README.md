@@ -1,4 +1,4 @@
-# rijndael-dudi-265 libsxyzwww
+# rijndael-dudi-265 lib
 Secure System Library for the dot net Framework environment
 
 ## Intro
