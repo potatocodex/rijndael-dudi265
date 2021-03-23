@@ -1,4 +1,4 @@
-# rijndael-dudi-265 libklxz
+# rijndael-dudi-265 libklxzs
 Secure System Library for the dot net Framework environment
 
 ## Intro
