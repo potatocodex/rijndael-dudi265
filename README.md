@@ -1,4 +1,4 @@
-# rijndael-dudi-265 libklx150kkss
+# rijndael-dudi-265 libklx150kkssy
 Secure System Library for the dot net Framework environment
 
 ## Intro
