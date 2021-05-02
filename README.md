@@ -1,4 +1,4 @@
-# rijndael-dudi-265 libe
+# rijndael-dudi-265 liber
 Secure System Library for the dot net Framework environment
 
 ## Intro
