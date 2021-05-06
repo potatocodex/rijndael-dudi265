@@ -1,4 +1,4 @@
-# rijndael-dudi-265 liberto ca
+# rijndael-dudi-265 liberto cass
 Secure System Library for the dot net Framework environment
 
 ## Intro
