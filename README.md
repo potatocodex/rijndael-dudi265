@@ -1,4 +1,4 @@
-# rijndael-dudi-265 liberto cassovonobnb  n
+# rijndael-dudi-265 liberto cassovono
 Secure System Library for the dot net Framework environment
 
 ## Intro
