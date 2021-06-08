@@ -1,4 +1,4 @@
-# rijndael-dudi-265 lps
+# rijndael-dudi-265 lpse
 Secure System Library for the dot net Framework environment
 
 ## Intro
