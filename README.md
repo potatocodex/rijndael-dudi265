@@ -1,4 +1,4 @@
-# rijndael-dudi-265 lpsedx
+# rijndael-dudi-265 lpsedxo
 Secure System Library for the dot net Framework environment
 
 ## Intro
