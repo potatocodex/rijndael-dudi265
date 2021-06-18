@@ -1,4 +1,4 @@
-# rijndael-dudi-265 lpsedxodometricss
+# rijndael-dudi-265 exs
 Secure System Library for the dot net Framework environment
 
 ## Intro
