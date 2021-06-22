@@ -1,4 +1,4 @@
-# rijndael-dudi-265 exy
+# rijndael-dudi-265 exyd
 Secure System Library for the dot net Framework environment
 
 ## Intro
