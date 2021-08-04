@@ -1,4 +1,4 @@
-# rijndael-dudi-265 hai
+# rijndael-dudi-265 hai lorem
 Secure System Library for the dot net Framework Environment
 
 ## Intro
