@@ -1,4 +1,4 @@
-# rijndael-dudi-265 lambda
+# rijndael-dudi-265 lambda gamma
 Secure System Library for the dot net Framework Environment
 
 ## Intro
