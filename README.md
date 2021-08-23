@@ -1,4 +1,4 @@
-# rijndael-dudi-265 lambda gamma alpha
+# rijndael-dudi-265 lambda gamma alpha beggin
 Secure System Library for the dot net Framework Environment
 
 ## Intro
