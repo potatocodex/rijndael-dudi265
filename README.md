@@ -1,4 +1,4 @@
-# rijndael-dudi-265 2021 2020 2019
+# rijndael-dudi-265
 Secure System Library for the dot net Framework Environment
 
 ## Intro
