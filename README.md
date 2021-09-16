@@ -1,4 +1,4 @@
-# rijndael-dudi-265 abcdef
+# rijndael-dudi-265 lorem ipsum
 Secure System Library for the dot net Framework Environment
 
 ## Intro
