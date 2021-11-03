@@ -1,4 +1,4 @@
-# rijndael-dudi-265 80-bitwisel
+# rijndael-dudi-265
 Secure System Library for the dot net Framework Environment
 
 ## Intro
