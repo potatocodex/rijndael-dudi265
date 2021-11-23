@@ -1,4 +1,4 @@
-# rijndael-dudi-265 good
+# rijndael-dudi-265 nice
 Secure System Library for the dot net Framework Environment
 
 ## Intro
