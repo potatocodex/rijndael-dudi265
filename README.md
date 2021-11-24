@@ -1,4 +1,4 @@
-# rijndael-dudi-265 nice
+# rijndael-dudi-265 day
 Secure System Library for the dot net Framework Environment
 
 ## Intro
