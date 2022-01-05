@@ -17,7 +17,7 @@ Where:
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;f=" title="\Large f=" /> Encrypt or Decrypt Function
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;data=" title="\Large data=" /> Data String of GPS Tracker 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;data=" title="\Large data=" /> RAW Data String
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;data_R=" title="\Large data_R=" /> Result of Encrypted or Decrypted Data
 
