@@ -9,7 +9,7 @@ Using Rijndael Algorithm for more robust performance
 ## Equations
 This is the model for the library
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;Dudi265.f_(_d_a_t_a_)=data_R" title="\Large Dudi265.R_(_d_a_t_a_)=data_R" />
+<img src="https://latex.codecogs.com/svg.image?\Large&space;Dudi265.f_{(data)}=data_R" title="\Large Dudi265.f_{(data)}=data_R" />
 
 Where:
 
